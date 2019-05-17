@@ -5,7 +5,7 @@ public class demo7 {
         System.out.println(77);
     }
 
-    public static void test(){
+    public static void test222(){
         //todo
     }
 }

@@ -7,5 +7,6 @@ public class demo {
 
     public static void test222(){
         //todo
+        System.out.println("222");
     }
 }
